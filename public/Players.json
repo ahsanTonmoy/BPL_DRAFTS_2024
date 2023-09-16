@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "name": "Shakib Al Hasan",
+        "photo": "./playersImg/sakidAllHasan.jpg",
+        "country": "Bangladesh",
+        "birth_date": "Mar 24, 1987",
+        "role": "Batting Allrounder",
+        "batting_style": "Left Handed Bat",
+        "bowling_style": "Left-arm orthodox",
+        "captaincy_experience": true,
+        "teams": [
+          "Forcune Borisal",
+          "Bangladesh National Team"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Mushfiqur Rahim",
+        "photo": "./playersImg/musfiq.jpg",
+        "country": "Bangladesh",
+        "birth_date": "May 09, 1987",
+        "role": "WK-Batsman",
+        "batting_style": "Right-handed",
+        "bowling_style": "",
+        "captaincy_experience": true,
+        "teams": [
+          "Rajasthan Royals",
+          "Australian National Team"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Tamim Iqbal",
+        "photo": "./playersImg/tamim.jpg",
+        "country": "Bangladesh",
+        "birth_date": "Mar 20, 1989",
+        "role": "Batsman",
+        "batting_style": "Right-handed",
+        "bowling_style": "Right-arm off-spin",
+        "captaincy_experience": true,
+        "teams": [
+          "Sunrisers Hyderabad",
+          "New Zealand National Team"
+        ]
+    }
+]
+  
